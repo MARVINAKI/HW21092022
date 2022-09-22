@@ -90,5 +90,7 @@ public class Main {
         System.out.println("Кристина теперь получает "+kristinaCashAfter+" рублей. Годовой доход вырос на "+kristinaCashYearAfter%kristinaCashYearBefore+" рублей");
         System.out.println();
 
+        //End
+
     }
 }
